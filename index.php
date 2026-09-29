@@ -21,7 +21,7 @@ $result = $conn->query("SELECT * FROM tasks");
 <!DOCTYPE html>
 <html>
 <head>
-    <title>To-Do List</title>
+    <title>Alberto To-Do List</title>
 </head>
 <body>
     <h1>To-Do List</h1>
