@@ -88,7 +88,7 @@ try {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>To-Do List | DevOps Lab 7</title>
+    <title>To-Do List | DevOps Lab 7 | Version 2</title>
     <style>
         :root { color-scheme: light; --ink:#13293d; --muted:#526577; --red:#8c1e1e; --teal:#007a87; }
         * { box-sizing:border-box; }
