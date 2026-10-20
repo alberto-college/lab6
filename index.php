@@ -122,7 +122,7 @@ try {
 <body>
 <main>
     <div class="eyebrow">DevOps Principles and Practice · Lab 7</div>
-    <h1>To-Do List</h1>
+    <h1>To-Do List - Version 3</h1>
     <p class="intro">Add a task, refresh the page and see your database at work.</p>
 
     <?php if ($message !== ''): ?>
